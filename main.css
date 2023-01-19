@@ -112,6 +112,9 @@
     align-items: center;
     justify-content: center;
 }
+.open{
+    display: flex;
+}
 .feedback-container{
     background-color: white;
     width: 750px;
